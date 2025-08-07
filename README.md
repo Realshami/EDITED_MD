@@ -5,9 +5,9 @@
  
 # සැලකිය යුතුයි : පහත සදහන් වචන පමනක් බේස් එක තුල වෙනස් කර ගන්න
 ```
-> your_name
-> your_gp_jid
-> your_img_url
+  > your_name
+  > your_gp_jid
+  > your_img_url
 ```
 
 
