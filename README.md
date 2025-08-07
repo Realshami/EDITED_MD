@@ -1,7 +1,6 @@
 # hi
 <div align="center">
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F75B&width=435&lines=[(සැලකිය යුතුයි : ඉහත සදහන් වචන පමනක් බේස් එක තුල වෙනස් කර ගන්න)](https://git.io/typing-svg)
+# සැ.යු.     ```සැලකිය යුතුයි : ඉහත සදහන් වචන පමනක් බේස් එක තුල වෙනස් කර ගන්න
 
 
 
